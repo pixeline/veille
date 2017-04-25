@@ -34,7 +34,7 @@ On pourrait les regroupper comme ceci :
 
 ### Ouais mais dans ton exemple les fichiers sont .scss, c'est quoi encore ce machin ? 
 
-### *(Ou comment j'introduis le SASS dans le cours...)*
+#### *(Ou comment j'introduis le SASS dans le cours...)*
 #### Citation Wikipédia : 
 > Sass est un langage de feuilles de style en cascade (CSS). C'est un langage de description qui est compilé en CSS.
 > SassScript est un langage de script pouvant être utilisé à l’intérieur du code Sass. Deux syntaxes existent. 
