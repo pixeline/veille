@@ -55,3 +55,4 @@ aux déformateurs de nos déformer... enfin vous voyez quoi ...
 ## Les liens utiles 
 * [Brad Frost, le Chuck Norris de l'Atomic Design ]( http://atomicdesign.bradfrost.com/foreword/  "Brad Frost")
 * [Sass (Wikipédia)]( https://fr.wikipedia.org/wiki/Sass_(langage) "SASS")
+* [Le blog d'Audrey]( https://medium.com/@audreyhacq/l-atomic-design-une-m%C3%A9thode-de-co-creation-prometteuse-bd9d5fc2b2ad "Blog in french")
