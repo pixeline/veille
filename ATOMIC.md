@@ -13,6 +13,7 @@ Le bouton, c'est un atôme.  Si vous combinez cet atôme avec d'autres atômes, 
 ### Comment ça se présente ?
 
 On pourrait les regroupper comme ceci :  
+![Brad Forst diagrame](http://bradfrost.com/wp-content/uploads/2013/06/atomic-design.png)
 
     atoms
        _buttons.scss
@@ -35,8 +36,6 @@ On pourrait les regroupper comme ceci :
       _about.scss
       _contact.scss
 
-
-![Brad Forst diagrame](http://bradfrost.com/wp-content/uploads/2013/06/atomic-design.png)
 
 ### Ouais mais dans ton exemple les fichiers sont .scss, c'est quoi encore ce machin ? 
 
