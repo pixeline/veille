@@ -32,7 +32,7 @@ On pourrait les regroupper comme ceci :
       _contact.scss
 
 
-## Ouais mais dans ton exemple les fichiers sont .scss, c'est quoi encore ce machin ? 
+### Ouais mais dans ton exemple les fichiers sont .scss, c'est quoi encore ce machin ? 
 
 ### Ou comment j'introduis le SASS dans le cours...
 Citation Wikipédia : 
