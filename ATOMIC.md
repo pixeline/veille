@@ -54,4 +54,4 @@ aux déformateurs de nos déformer... enfin vous voyez quoi ...
 5. Plus facile à mettre à jour et à supprimer des parties du site
 
 ## Les liens utiles 
-[Brad Frost, le Chuck Norris de L'atomic Design ]( http://atomicdesign.bradfrost.com/foreword/  "Brad Frost")
+[Brad Frost, le Chuck Norris de l'Atomic Design ]( http://atomicdesign.bradfrost.com/foreword/  "Brad Frost")
