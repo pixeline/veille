@@ -47,6 +47,25 @@ re-Citation Wikipédia :
 > Le Haml (HTML Abstraction Markup Language) est un langage de balisage léger pour templates. 
 > Il est utilisé pour générer des documents XHTML sans utiliser la syntaxe HTML. L'indentation reste très importante. 
 
+En html  :
+                <div id="sidebar">
+                  <ul class="main">
+                    <li class="active">
+                      <a href="accueil.html">
+                        Accueil
+                      </a>
+                    </li>
+                    <li>
+                      <a href="nouvelles.html">
+                        Nouvelles
+                      </a>
+                    </li>
+                    <li class="disabled">
+                      <a>Membres</a>
+                    </li>
+                  </ul>
+                </div>
+
 
 ## 5 bonnes raisons d'adopter l'Atomic Design 
 
