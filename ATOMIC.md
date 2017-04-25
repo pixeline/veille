@@ -40,7 +40,7 @@ On pourrait les regroupper comme ceci :
 4. Structure de fichier plus modulaire
 5. Plus facile à mettre à jour et à supprimer des parties du site
 
-## le SCSS ou le SASS 
+## Ouais mais dans ton exemple les fichiers sont .scss (ou le SASS) c'est quoi encore ce machin ? 
 
 Citation Wikipédia : 
 > Sass est un langage de feuilles de style en cascade (CSS). C'est un langage de description qui est compilé en CSS.
