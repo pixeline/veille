@@ -43,16 +43,7 @@ On pourrait les regroupper comme ceci :
 
 #### On a rien compris ...
 Ben sachez que moi non plus je n'ai pas compris ! Cela dit je sais que nous allons prochainement voir cela en cours, donc je laisse soin 
-
-### Ouais, mais c'est quoi la syntaxe Haml ?
-
-re-Citation Wikipédia : 
-> Le Haml (HTML Abstraction Markup Language) est un langage de balisage léger pour templates. 
-> Il est utilisé pour générer des documents XHTML sans utiliser la syntaxe HTML. L'indentation reste très importante. 
-
-En html  :
-Syntaxe Haml :
-
+aux déformateurs de nos déformer... enfin vous voyez quoi ...
 
 ## 5 bonnes raisons d'adopter l'Atomic Design 
 
