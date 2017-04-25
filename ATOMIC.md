@@ -53,7 +53,7 @@ aux déformateurs de nos déformer... enfin vous voyez quoi ...
 ## Pourquoi l'Atomic design ?
 
 En tant que frontend / uix designer , il est essentiel de remettre régulièrement en question notre workflow et nos techniques de co-création, pour être toujours plus efficaces sans perdre de vue la qualité et la cohérence d’un projet.
-Avec le nombre croissant de sites web responsives et les nouveaux principes d’applications universelles, la façon dont nous concevons nos interfaces est en train d’évoluer. Nous devons prendre en compte un large panel de tailles d’écrans et de résolutions, et des interfaces qui sortent du cadre habituel des écrans (ex : HoloLens)
+Avec le nombre croissant de sites web responsives et les nouveaux principes d’applications universelles, la façon dont nous concevons nos interfaces est en train d’évoluer. Nous devons prendre en compte un large panel de tailles d’écrans et de résolutions, et des interfaces qui sortent du cadre habituel des écrans (ex : HoloLens) et l'atomic design permet justement d'être beaucoup modulable...
 
 ![Hololens](https://www.sns-it.ca/wp-content/uploads/2015/11/microsoft-hololens-release-price.jpg "Hololens")
 
