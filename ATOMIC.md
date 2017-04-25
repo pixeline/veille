@@ -41,3 +41,9 @@ On pourrait les regroupper comme ceci :
 5. Plus facile à mettre à jour et à supprimer des parties du site
 
 ## le SCSS ou le SASS 
+
+> Citation Wikipédia 
+> Sass est un langage de feuilles de style en cascade (CSS). C'est un langage de description qui est compilé en CSS.
+> SassScript est un langage de script pouvant être utilisé à l’intérieur du code Sass. Deux syntaxes existent. 
+> La syntaxe originale, nommée « syntaxe indentée », est proche de Haml. La nouvelle syntaxe se nomme « SCSS ». 
+> Elle a un formalisme proche de CSS.
