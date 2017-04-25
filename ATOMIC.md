@@ -6,7 +6,7 @@ En résumé, c'est super-simple: Brad Frost et Dave Olsen, les gars qui sont der
 
 ![Texte alternatif](atome.png "atome css")
 
-´´´
+`
 - atoms
   - _buttons.scss
   - _links.scss
@@ -27,7 +27,7 @@ En résumé, c'est super-simple: Brad Frost et Dave Olsen, les gars qui sont der
   - _home.scss
   - _about.scss
   - _contact.scss
-´´´
+`
 
 ## 5 bonnes raisons d'adopter l'Atomic Design 
 
