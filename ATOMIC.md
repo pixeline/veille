@@ -8,12 +8,14 @@ En résumé, c'est super simple: Brad Frost et Dave Olsen, les gars qui sont der
 
 Le bouton, c'est un atôme.  Si vous combinez cet atôme avec d'autres atômes, comme un input de saisie et son label, et vous obtenez une barre de recherche soit une molécule. Ensuite, si vous combinez cette molécule à d'autres molécules, comme un menu de navigation et un formulaire de contact :) et vous obtenez un organisme... enfin voilà, vous avez saisi l'idée. Cet un concept relativement récent pour ceux qui font du Frontend mais les codeurs en backend connaissent déjà bien ce concept puisqu'on pourrait la comparer une Progarmation Orienté Objet (POO).
 
+![Atome](atome.png "atome css")
+
 ## Pourquoi l'Atomic design ?
 
-En tant qu’UX/UI designer, il est essentiel de remettre régulièrement en question notre workflow et nos techniques de co-création, pour être toujours plus efficaces sans perdre de vue la qualité et la cohérence d’un projet.
-Avec le nombre croissant de sites web responsives et les nouveaux principes d’applications universelles, la façon dont nous concevons nos interfaces est en train d’évoluer. Nous devons prendre en compte un large panel de tailles d’écrans et de résolutions, et des interfaces qui sortent du cadre habituel des écrans (ex : HoloLens, Oculus Rift…)
+En tant frontend / uix designer , il est essentiel de remettre régulièrement en question notre workflow et nos techniques de co-création, pour être toujours plus efficaces sans perdre de vue la qualité et la cohérence d’un projet.
+Avec le nombre croissant de sites web responsives et les nouveaux principes d’applications universelles, la façon dont nous concevons nos interfaces est en train d’évoluer. Nous devons prendre en compte un large panel de tailles d’écrans et de résolutions, et des interfaces qui sortent du cadre habituel des écrans (ex : HoloLens)
 
-![Atome](atome.png "atome css")
+
 
 ### Comment ça se présente ?
 
