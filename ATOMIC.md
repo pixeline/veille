@@ -52,3 +52,6 @@ aux déformateurs de nos déformer... enfin vous voyez quoi ...
 3. Processus plus efficace, prototypage plus rapide
 4. Structure de fichier plus modulaire
 5. Plus facile à mettre à jour et à supprimer des parties du site
+
+## Les liens utiles 
+[Brad Frost, le Chuck Norris de L'atomic Design ]( http://atomicdesign.bradfrost.com/foreword/  "Brad Frost")
