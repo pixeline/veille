@@ -48,19 +48,19 @@ re-Citation Wikipédia :
 > Il est utilisé pour générer des documents XHTML sans utiliser la syntaxe HTML. L'indentation reste très importante. 
 
 En html  :
-                <div id="sidebar">
-                  <ul class="main">
+    <div id="sidebar">
+        <ul class="main">
                     <li class="active">
                       <a href="accueil.html">
                         Accueil
-                      </a>
-                    </li>
-                    <li>
-                      <a href="nouvelles.html">
-                        Nouvelles
-                      </a>
-                    </li>
-                    <li class="disabled">
+                          </a>
+                            </li>
+                                  <li>
+                                      <a href="nouvelles.html">
+                                     Nouvelles
+                                         </a>
+                                             </li>
+                                                         <li class="disabled">
                       <a>Membres</a>
                     </li>
                   </ul>
