@@ -47,3 +47,9 @@ Citation Wikipédia :
 > SassScript est un langage de script pouvant être utilisé à l’intérieur du code Sass. Deux syntaxes existent. 
 > La syntaxe originale, nommée « syntaxe indentée », est proche de Haml. La nouvelle syntaxe se nomme « SCSS ». 
 > Elle a un formalisme proche de CSS.
+
+### Ouais, mais c'est quoi la syntaxe Haml ?
+
+re-Citation Wikipédia : 
+> Le Haml (HTML Abstraction Markup Language) est un langage de balisage léger pour templates. 
+> Il est utilisé pour générer des documents XHTML sans utiliser la syntaxe HTML. 
