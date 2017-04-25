@@ -6,16 +6,16 @@ En résumé, c'est super-simple: Brad Frost et Dave Olsen, les gars qui sont der
 
 ## 5 bonnes raisons d'adopter l'atomic design 
 
-    1. Réutilisabilité
-    2. Plus facile à créer un guide de style
-    3. Mise en page facile à comprendre
-    4. Le code est plus cohérent
-    5. Pas de mise au point sur les conceptions parfait des pixels
-    6. Processus plus efficace, prototypage plus rapide
-    7. Plus facile à mettre à jour et à supprimer des parties du site
-    8. Structure de fichier plus modulaire
-    9. Moins de composants en général
-    10. Laboratoire de motifs
+1. Réutilisabilité
+2. Plus facile à créer un guide de style
+3. Mise en page facile à comprendre
+4. Le code est plus cohérent
+5. Pas de mise au point sur les conceptions parfait des pixels
+6. Processus plus efficace, prototypage plus rapide
+7. Plus facile à mettre à jour et à supprimer des parties du site
+8. Structure de fichier plus modulaire
+9. Moins de composants en général
+10. Laboratoire de motifs
 
 
 ## le SCSS ou le SASS 
