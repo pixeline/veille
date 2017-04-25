@@ -38,8 +38,11 @@ On pourrait les regroupper comme ceci :
 Citation Wikipédia : 
 > Sass est un langage de feuilles de style en cascade (CSS). C'est un langage de description qui est compilé en CSS.
 > SassScript est un langage de script pouvant être utilisé à l’intérieur du code Sass. Deux syntaxes existent. 
-> La syntaxe originale, nommée « syntaxe indentée », est proche de Haml. La nouvelle syntaxe se nomme « SCSS ». 
-> Elle a un formalisme proche de CSS.
+> La syntaxe originale, nommée « syntaxe indentée », est proche de Haml. La nouvelle syntaxe se nomme « SCSS »  
+> et a un formalisme proche de CSS.
+
+#### On a rien compris ...
+Ben sachez que moi non plus je n'ai pas compris ! Cela dit je sais que nous allons prochainement voir cela en cours, donc je laisse soin 
 
 ### Ouais, mais c'est quoi la syntaxe Haml ?
 
@@ -48,23 +51,7 @@ re-Citation Wikipédia :
 > Il est utilisé pour générer des documents XHTML sans utiliser la syntaxe HTML. L'indentation reste très importante. 
 
 En html  :
-    <div id="sidebar">
-        <ul class="main">
-                    <li class="active">
-                      <a href="accueil.html">
-                        Accueil
-                          </a>
-                            </li>
-                                  <li>
-                                      <a href="nouvelles.html">
-                                     Nouvelles
-                                         </a>
-                                             </li>
-                                                         <li class="disabled">
-                      <a>Membres</a>
-                    </li>
-                  </ul>
-                </div>
+Syntaxe Haml :
 
 
 ## 5 bonnes raisons d'adopter l'Atomic Design 
