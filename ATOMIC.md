@@ -65,7 +65,7 @@ Avec le nombre croissant de sites web responsives et les nouveaux principes d’
 4. Structure de fichier plus modulaire
 5. Plus facile à mettre à jour et à supprimer des parties du site
 
-## Les liens utiles 
+## Sources et liens utiles 
 * [Brad Frost, le Chuck Norris de l'Atomic Design ]( http://atomicdesign.bradfrost.com/foreword/  "Brad Frost")
 * [Sass (Wikipédia)]( https://fr.wikipedia.org/wiki/Sass_(langage) "SASS")
 * [Le blog d'Audrey Hacq]( https://medium.com/@audreyhacq/l-atomic-design-une-m%C3%A9thode-de-co-creation-prometteuse-bd9d5fc2b2ad "Blog in french")
