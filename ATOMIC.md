@@ -46,7 +46,6 @@ Ben sachez que moi non plus je n'ai pas compris ! Cela dit je sais que nous allo
 aux déformateurs de nos déformer... enfin vous voyez quoi ...
 
 ## 5 bonnes raisons d'adopter l'Atomic Design 
-
     1. Réutilisabilitable   
     2. Mise en page facile à comprendre
     3. Processus plus efficace, prototypage plus rapide
