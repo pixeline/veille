@@ -12,7 +12,7 @@ Le bouton, c'est un atôme.  Si vous combinez cet atôme avec d'autres atômes, 
 
 ## Pourquoi l'Atomic design ?
 
-En tant frontend / uix designer , il est essentiel de remettre régulièrement en question notre workflow et nos techniques de co-création, pour être toujours plus efficaces sans perdre de vue la qualité et la cohérence d’un projet.
+En tant que frontend / uix designer , il est essentiel de remettre régulièrement en question notre workflow et nos techniques de co-création, pour être toujours plus efficaces sans perdre de vue la qualité et la cohérence d’un projet.
 Avec le nombre croissant de sites web responsives et les nouveaux principes d’applications universelles, la façon dont nous concevons nos interfaces est en train d’évoluer. Nous devons prendre en compte un large panel de tailles d’écrans et de résolutions, et des interfaces qui sortent du cadre habituel des écrans (ex : HoloLens)
 
 
