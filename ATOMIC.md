@@ -10,15 +10,6 @@ Le bouton, c'est un atôme.  Si vous combinez cet atôme avec d'autres atômes, 
 
 ![Atome](atome.png "atome css")
 
-## Pourquoi l'Atomic design ?
-
-En tant que frontend / uix designer , il est essentiel de remettre régulièrement en question notre workflow et nos techniques de co-création, pour être toujours plus efficaces sans perdre de vue la qualité et la cohérence d’un projet.
-Avec le nombre croissant de sites web responsives et les nouveaux principes d’applications universelles, la façon dont nous concevons nos interfaces est en train d’évoluer. Nous devons prendre en compte un large panel de tailles d’écrans et de résolutions, et des interfaces qui sortent du cadre habituel des écrans (ex : HoloLens)
-
-![Hololens](https://www.sns-it.ca/wp-content/uploads/2015/11/microsoft-hololens-release-price.jpg "Hololens")
-
-
-
 ### Comment ça se présente ?
 
 On pourrait les regroupper comme ceci :  
@@ -60,7 +51,14 @@ On pourrait les regroupper comme ceci :
 Ben sachez que moi non plus je n'ai pas compris ! Cela dit je sais que nous allons prochainement voir cela en cours, donc je laisse soin 
 aux déformateurs de nos déformer... enfin vous voyez quoi ...
 
-## 5 bonnes raisons d'adopter l'Atomic Design 
+## Pourquoi l'Atomic design ?
+
+En tant que frontend / uix designer , il est essentiel de remettre régulièrement en question notre workflow et nos techniques de co-création, pour être toujours plus efficaces sans perdre de vue la qualité et la cohérence d’un projet.
+Avec le nombre croissant de sites web responsives et les nouveaux principes d’applications universelles, la façon dont nous concevons nos interfaces est en train d’évoluer. Nous devons prendre en compte un large panel de tailles d’écrans et de résolutions, et des interfaces qui sortent du cadre habituel des écrans (ex : HoloLens)
+
+![Hololens](https://www.sns-it.ca/wp-content/uploads/2015/11/microsoft-hololens-release-price.jpg "Hololens")
+
+### 5 bonnes raisons d'adopter l'Atomic Design 
 1. Réutilisabilitable   
 2. Mise en page facile à comprendre
 3. Processus plus efficace, prototypage plus rapide
