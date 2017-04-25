@@ -52,4 +52,4 @@ Citation Wikipédia :
 
 re-Citation Wikipédia : 
 > Le Haml (HTML Abstraction Markup Language) est un langage de balisage léger pour templates. 
-> Il est utilisé pour générer des documents XHTML sans utiliser la syntaxe HTML. 
+> Il est utilisé pour générer des documents XHTML sans utiliser la syntaxe HTML. L'indentation reste très importante. 
