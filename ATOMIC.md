@@ -6,7 +6,7 @@ En résumé, c'est super simple: **Brad Frost et Dave Olsen**, les gars qui ont 
 
 ![Barre de recherche](bar.png "atome css")
 
-Le bouton, c'est un atôme.  Si vous combinez cet atôme avec d'autres atômes, comme un input de saisie et son label, et vous obtenez une barre de recherche soit une molécule. Ensuite, si vous combinez cette molécule à d'autres molécules, comme un menu de navigation et un formulaire de contact :) et vous obtenez un organisme... enfin voilà, vous avez saisi l'idée. Cet un concept relativement récent pour ceux qui font du Frontend mais les codeurs en backend connaissent déjà bien ce concept puisqu'on pourrait la comparer une Progarmation Orienté Objet (POO).
+Le bouton, c'est un *atôme*.  Si vous combinez cet atôme avec d'autres atômes, comme un input de saisie et son label, et vous obtenez une barre de recherche soit une molécule. Ensuite, si vous combinez cette molécule à d'autres molécules, comme un menu de navigation et un formulaire de contact :) et vous obtenez un organisme... enfin voilà, vous avez saisi l'idée. Cet un concept relativement récent pour ceux qui font du Frontend mais les codeurs en backend connaissent déjà bien ce concept puisqu'on pourrait la comparer une Progarmation Orienté Objet (POO).
 
 ![Atome](atome.png "atome css")
 
