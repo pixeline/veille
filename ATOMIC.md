@@ -6,6 +6,9 @@ En résumé, c'est super-simple: Brad Frost et Dave Olsen, les gars qui sont der
 
 ![Texte alternatif](atome.png "atome css")
 
+### Comment ça se présente ?
+
+On pourrait les regroupper comme ceci :  
 
     atoms
        _buttons.scss
