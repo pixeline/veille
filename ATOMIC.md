@@ -2,7 +2,7 @@
 
 ## L'Atomic Design ?! Keksako ??
 
-En résumé, c'est super simple: Brad Frost et Dave Olsen, les gars qui sont derrières ce concept, l'appellent **"Construire des éléments, pas des pages".** - Donc ne PLUS concevoir et développer des pages complètes mais concevoir et développer de petits éléments. Des éléments **vraiment petits**, comme un bouton d'une barre de recherche.
+En résumé, c'est super simple: Brad Frost et Dave Olsen, les gars qui ont inventé ce concept, l'appellent **"Construire des éléments, pas des pages".** - Donc ne PLUS concevoir et développer des pages complètes mais concevoir et développer de petits éléments. Des éléments **vraiment petits**, comme un bouton d'une barre de recherche.
 
 ![Barre de recherche](bar.png "atome css")
 
