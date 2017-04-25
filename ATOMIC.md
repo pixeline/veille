@@ -32,14 +32,6 @@ On pourrait les regroupper comme ceci :
       _contact.scss
 
 
-## 5 bonnes raisons d'adopter l'Atomic Design 
-
-1. Réutilisabilitable
-2. Mise en page facile à comprendre
-3. Processus plus efficace, prototypage plus rapide
-4. Structure de fichier plus modulaire
-5. Plus facile à mettre à jour et à supprimer des parties du site
-
 ## Ouais mais dans ton exemple les fichiers sont .scss (ou le SASS) c'est quoi encore ce machin ? 
 
 Citation Wikipédia : 
@@ -53,3 +45,12 @@ Citation Wikipédia :
 re-Citation Wikipédia : 
 > Le Haml (HTML Abstraction Markup Language) est un langage de balisage léger pour templates. 
 > Il est utilisé pour générer des documents XHTML sans utiliser la syntaxe HTML. L'indentation reste très importante. 
+
+
+## 5 bonnes raisons d'adopter l'Atomic Design 
+
+1. Réutilisabilitable
+2. Mise en page facile à comprendre
+3. Processus plus efficace, prototypage plus rapide
+4. Structure de fichier plus modulaire
+5. Plus facile à mettre à jour et à supprimer des parties du site
