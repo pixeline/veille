@@ -32,7 +32,7 @@ On pourrait les regroupper comme ceci :
       _contact.scss
 
 
-## Ouais mais dans ton exemple les fichiers sont .scss (ou le SASS) c'est quoi encore ce machin ? 
+## Ouais mais dans ton exemple les fichiers sont .scss (ou comment j'introduis le SASS dans le cours) c'est quoi encore ce machin ? 
 
 Citation Wikipédia : 
 > Sass est un langage de feuilles de style en cascade (CSS). C'est un langage de description qui est compilé en CSS.
